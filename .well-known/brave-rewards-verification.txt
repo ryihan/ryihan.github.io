@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: ryihan.github.io
+Token: 983e775943a7367926ca0265326c0ad1a5e17b99a25093856b77bb8a48d98767
